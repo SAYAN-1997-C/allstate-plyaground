@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\allstate-playground\Java\allstate-code\springsample\SampleCorePractice"/>
+			<item value="D:\allstate-playground\Java\allstate-code\allstate-code\springsample\librarymvc"/>
+			<item value="D:\allstate-playground\java-playground\sampleMvc"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.stackroute.librarymvcPractice"/>
+			<item value="com.stackroute.sample_code"/>
+		</list>
+		<list key="groupId">
+			<item value="com.stackroute"/>
+		</list>
+		<list key="artifactId">
+			<item value="librarymvcPractice"/>
+			<item value="sample-code"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="D:\allstate-playground\allstate-code\springsample\bootsamples\Sampleeurekaclient"/>
+			<item value="D:\allstate-playground\allstate-code\springsample\bootsamples\SampleEurekaServer"/>
+			<item value="D:\allstate-playground\allstate-code\springsample\bootsamples\PlayerMongo"/>
+			<item value="D:\allstate-playground\allstate-code\springsample\bootsamples\AuthorizationApp"/>
+			<item value="D:\allstate-playground\allstate-code\springsample\bootsamples\StudentApp"/>
+			<item value="D:\allstate-playground\allstate-code\springsample\bootsamples\samplejpa"/>
+			<item value="D:\allstate-playground\allstate-code\springsample\bootsamples\MovieJpa"/>
+			<item value="D:\allstate-playground\allstate-code\springsample\bootsamples\firstboot"/>
+			<item value="D:\allstate-playground\Java\allstate-code\allstate-code\springsample\librarymvc"/>
+			<item value="D:\allstate-playground\Java\allstate-code\allstate-code\springsample\samplemvc"/>
+			<item value="D:\allstate-playground\java-playground\sampleMvc"/>
+			<item value="D:\allstate-playground\Java\allstate-code\springsample\HospitalPractice"/>
+			<item value="D:\allstate-playground\Java\allstate-code\springsample\SampleCorePractice"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="838"/>
+		<item key="x" value="720"/>
+		<item key="y" value="0"/>
+	</section>
+</section>

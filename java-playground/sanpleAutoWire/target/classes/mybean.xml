@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns = "http://www.springframework.org/schema/beans"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://www.springframework.org/schema/beans
+   http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+   
+   <!-- <bean id="itembean" class="com.stackroute.sanpleAutoWire.Item">
+   <property name="itemName" value="Noddles"> </property>
+   <property name="price" value="90"></property>
+   </bean> -->
+   
+   <!-- <bean id="hotelbean" class="com.stackroute.sanpleAutoWire.Hotel" autowire="byType">
+   <property name="hotelName" value="Hayat"></property>
+   <property name="addr" value="Howrah"></property>
+   </bean> -->
+   <bean id="item" class="com.stackroute.sanpleAutoWire.Item">
+   <property name="itemName" value="Noddles"> </property>
+   <property name="price" value="90"></property>
+   </bean>
+  <!--    <bean id="item1" class="com.stackroute.sanpleAutoWire.Item">
+   <property name="itemName" value="Noddles"> </property>
+   <property name="price" value="90"></property>
+   </bean> -->
+ <!--    <bean id="hotelbean" class="com.stackroute.sanpleAutoWire.Hotel" autowire="byName">
+   <property name="hotelName" value="Hayat"></property>
+   <property name="addr" value="Howrah"></property>
+   </bean>-->
+   
+   <bean id="hotelbean" class="com.stackroute.sanpleAutoWire.Hotel" autowire="constructor">
+   <property name="hotelName" value="Hayat"></property>
+   <property name="addr" value="Howrah"></property>
+   </bean>
+   
+</beans>

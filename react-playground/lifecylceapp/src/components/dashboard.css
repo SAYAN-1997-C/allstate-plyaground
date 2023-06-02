@@ -1,0 +1,14 @@
+.clsdisplay
+
+{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.clsdashboard
+{
+    background: salmon;
+    height: 100vh;
+}

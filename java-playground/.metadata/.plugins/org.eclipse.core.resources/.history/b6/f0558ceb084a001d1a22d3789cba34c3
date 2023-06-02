@@ -1,0 +1,5 @@
+package com.stackroute.playlistapi.config;
+
+public class SwaggerConfig {
+
+}
